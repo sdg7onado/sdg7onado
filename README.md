@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Okechukwu Opel Nnamdi Agufuobi - I like to be called Opel (😉)
 
-- 👀 I’m interested in Backend Development, Mobile App Development, Ui/UX and Blockchain Tech
+- 👀 I’m interested in ASP.Net(C#) / CLojure / Haskell / Java / Backend Development, Mobile App Development, Ui/UX and Blockchain Tech
 
 - 🌱 I’m currently learning F#, Haskell and Clojure
 
