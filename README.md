@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Okechukwu Opel Nnamdi Agufuobi - I like to be called Opel (😉)
 
-- 👀 I’m interested in ASP.Net(C#) / Clojure / Haskell / Java / Backend Development, Mobile App Development, Ui/UX and Blockchain Tech
+- 👀 I’m interested in ASP.Net(C#) / Go / Clojure / Haskell / Java / Backend Development, Mobile App Development, Ui/UX and Blockchain Tech
 
-- 🌱 I’m currently learning F#, Haskell and Clojure
+- 🌱 I’m currently learning Go, F#, Haskell and Clojure
 
-- 💞️ I’m looking to collaborate on creating KYC and KYI(Know Your Industry) apps for everyday user and techies.
+- 💞️ I’m looking to collaborate on creating KYC and KYI(Know Your Industry) apps for finance, healthm everyday users and techies.
 
 - Twitter   :  @opel_nnamdi<br/><br/>
   LinkedIn  : https://www.linkedin.com/in/okechukwu-agufuobi/<br/><br/>
