@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ASP.Net(C#) / Go / Clojure / Haskell / Java / Backend Development, Mobile App Development, Ui/UX and Blockchain Tech
 
-- 🌱 I’m currently learning Go, F#, Haskell and Clojure
+- 🌱 I’m currently learning Go, F#, Haskell and OCaml
 
 - 💞️ I’m looking to collaborate on creating KYC and KYI(Know Your Industry) apps for finance, healthm everyday users and techies.
 
