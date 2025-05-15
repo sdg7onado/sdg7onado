@@ -1,14 +1,15 @@
-- 👋 Hi, I’m Okechukwu Opel Nnamdi Agufuobi - I like to be called Opel (😉)
+👋 Hi there! I'm Opel
 
-- 👀 I’m interested in ASP.Net(C#) / Rust / OCaml / Java. Backend Development, Mobile App Development, Ui/UX and Blockchain Tech
+💻 I'm passionate about building with ASP.NET (C#), Rust, OCaml, and Java. I enjoy solving backend challenges, crafting mobile apps, exploring UI/UX design, and diving into blockchain tech.
 
-- 🌱 I’m currently learning Rust and OCaml
+🚀 Currently exploring the depths of Python, Rust and OCaml—because why not love a little type safety and performance?
 
-- 💞️ I’m looking to collaborate on creating KYC and KYI(Know Your Industry) apps for finance, health everyday users and techies.
+🤝 Always open to collaborations—especially on KYC and KYI (Know Your Industry) solutions for finance, health, tech, and everyday users.
 
-- Twitter   : @opel_nnamdi<br/><br/>
-  LinkedIn  : https://www.linkedin.com/in/okechukwu-agufuobi/<br/><br/>
-  Discord   : opel#2964
+📬 Let's connect:
+🔹 Twitter: @opel_nnamdi
+🔹 LinkedIn: linkedin.com/in/okechukwu-agufuobi
+🔹 Discord: opel#2964
   
 
 <!---
